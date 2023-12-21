@@ -4,24 +4,10 @@ excerpt: "<br/><img src='/images/car.jpg' width='500'><img src='/images/combusti
 collection: portfolio
 ---
 
-This project was part of the Advanced Mechatronics course at UT Austin. I was on a team with three other graduate students. The class project was to build and program a robot to shoot golf ball sized foam basketballs at one of three small hoops. 
+On Longhorn Racing I was a part of the aerodynamics team in 2019-2020 where I was responsible for the front wing as well as helping other members with their designs in SolidWorks. We completed CFD analysis in Ansys to iteratively improve upon our design. The plan for manufacturing was to have a foam core with carbon fiber on the exterior. Covid prevented us from completing the manufacturing.
+<br/><img src='/images/frontwing.jpg' width='300'>
 
-Under each hoop there is an infrared emitting "beacon". The beacon that is emitting is the one you are supposed to shoot at and the professor chooses which beacon to emit. We had two designs that we built and tested; a fly wheel and a conveyor belt. Due to the balls not being uniform in density, the flywheel was less accurate. 
-
-Our robot had the following:
-
-- TI MSP432 LaunchPad similar to an Arduino Uno
-- Bump sensors tells you if you bump into a wall
-- Infrared sensor for line following
-- Infrared sensors for the beacon
-- Ultrasonic sensors for wall detection
-
-This project was part of a class competition. Our team won this competition making 9 out of 10 shots in the finals.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpspNvdSzpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-Here is an image of our flywheel design:
-![](/images/stephbot.jpg)
+I was a part of the manufacturing team from 2022-2023 where I manufactured parts for the car. Often I would ask the different design teams what they needed manufactured and they would send me part drawings or SolidWorks models and then I would manufacture them. I would commonly use the lathe, mill, and the CNC milling machine. During the Fall when we had free time we typically spent it welding.
+<br/><img src='/images/lathe.jpg' width='300'>
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
