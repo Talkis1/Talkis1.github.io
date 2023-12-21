@@ -1,6 +1,6 @@
 ---
 title: "Basketball Shooting Robot"
-excerpt: "Built and programmed robot to autonomously shoot basketballs<br/><img src='/images/quadcopter.jpg'>"
+excerpt: "Built and programmed robot to autonomously shoot basketballs<br/><img src='/images/shaqbot.jpg'>"
 collection: portfolio
 ---
 
@@ -19,5 +19,8 @@ Our robot had the following:
 This project was part of a class competition. Our team won this competition making 9 out of 10 shots in the finals.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/watch?v=jpspNvdSzpw/0.jpg)](http://img.youtube.com/vi/watch?v=jpspNvdSzpw/0.jpg)
+
+Here is an image of our flywheel design:
+[![](/images/stephbot.jpg)]
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
