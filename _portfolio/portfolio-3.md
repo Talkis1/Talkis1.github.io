@@ -18,9 +18,9 @@ Our robot had the following:
 
 This project was part of a class competition. Our team won this competition making 9 out of 10 shots in the finals.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/watch?v=jpspNvdSzpw/0.jpg)](http://img.youtube.com/vi/watch?v=jpspNvdSzpw/0.jpg)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/jpspNvdSzpw/0.jpg)](http://img.youtube.com/vi/jpspNvdSzpw/0.jpg)
 
 Here is an image of our flywheel design:
-[![](/images/stephbot.jpg)]
+![](/images/stephbot.jpg)
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
