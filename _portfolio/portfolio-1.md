@@ -1,6 +1,6 @@
 ---
 title: "Quadcopter"
-excerpt: "Full design and development of quadcopter 1<br/><img src='/images/quadcopter.jpg'>"
+excerpt: "<br/><img src='/images/quadcopter.jpg' width='500'>"
 collection: portfolio
 ---
 

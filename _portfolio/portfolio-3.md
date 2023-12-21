@@ -1,6 +1,6 @@
 ---
 title: "Basketball Shooting Robot"
-excerpt: "Built and programmed robot to autonomously shoot basketballs<br/><img src='/images/shaqbot.jpg'>"
+excerpt: "<br/><img src='/images/shaqbot.jpg' width='500'>"
 collection: portfolio
 ---
 
@@ -19,6 +19,7 @@ Our robot had the following:
 This project was part of a class competition. Our team won this competition making 9 out of 10 shots in the finals.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jpspNvdSzpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Here is an image of our flywheel design:
 ![](/images/stephbot.jpg)
