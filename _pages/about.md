@@ -20,7 +20,7 @@ I have three internship experiences, two with [Dover Fueling Solutions](https://
 
 Research
 ------
-I am involved in two different research projects in the HeRo lab. One of the projects looks at pneumatic gripping of textile materials using the end effector of a industrial robot arm. For this project I am advised by [Dr. Ann Majewicz Fey](https://www.me.utexas.edu/people/faculty-directory/amfey) and [Dr. Roman Mykhailyshyn](https://romanmykhailyshyn.github.io/). 
+I am involved in two different research projects in the HeRo lab. One of the projects looks at pneumatic gripping of textile materials using the end effector of an industrial robot arm. For this project I am advised by [Dr. Ann Majewicz Fey](https://www.me.utexas.edu/people/faculty-directory/amfey) and [Dr. Roman Mykhailyshyn](https://romanmykhailyshyn.github.io/). 
 
 The other project I am involved in looks at improving proprioception during fetal surgery. Two other graduate students and I are developing a surgical training system with a haptic robotic device and hololens in a unity environment. Replicating the surgical procedure to improve proprioception and cut down on time during surgery.
 
