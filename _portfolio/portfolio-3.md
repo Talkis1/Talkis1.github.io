@@ -18,9 +18,7 @@ Our robot had the following:
 
 This project was part of a class competition. Our team won this competition making 9 out of 10 shots in the finals.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=jpspNvdSzpw
-" target="_blank"><img src="http://img.youtube.com/vi/jpspNvdSzpw/0.jpg" 
-alt="" width="240" height="180" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpspNvdSzpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Here is an image of our flywheel design:
 ![](/images/stephbot.jpg)
