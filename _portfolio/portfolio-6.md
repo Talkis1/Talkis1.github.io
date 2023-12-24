@@ -1,15 +1,13 @@
 ---
-title: "Senior Design Project - Portable Ice Maker"
-excerpt: "<br/><img src='/images/iceMakerFront.jpg' width='500'>"
+title: "Longhorn Racing - Manufacturing and Design"
+excerpt: "<br/><img src='/images/car.jpg' width='500'><img src='/images/combustionCarFrame.jpg' width='500'>"
 collection: portfolio
 ---
 
-Designed for a specific consumer within the UT Mechanical Engineering department.
+On Longhorn Racing I was a part of the aerodynamics team in 2019-2020 where I was responsible for the front wing as well as helping other members with their designs in SolidWorks. We completed CFD analysis in Ansys to iteratively improve upon our design. The plan for manufacturing was to have a foam core with carbon fiber on the exterior. Covid prevented us from completing the manufacturing.
+<br/><img src='/images/frontwing.jpg' width='300'>
 
-The key design aspects of this project was a minimal footprint (ability to sit on top of a desk) and the ability to pour a cup of water into the ice maker and receive ice in under 15 minutes. We created a MATLAB model to verify if producing ice in under 15 minutes was feasible. Our designs for the ice making mechanisms were inspired by our research through current patented products.
-
-Three different styles of ice would be expected to be made from this; the Sonic style, crushed, and cubed.
-
-<br/><img src='/images/iceMakerFront.jpg' width='500'>
+I was a part of the manufacturing team from 2022-2023 where I manufactured parts for the car. Often I would ask the different design teams what they needed manufactured and they would send me part drawings or SolidWorks models and then I would manufacture them. I would commonly use the lathe, mill, and the CNC milling machine. During the Fall when we had free time we typically spent it welding.
+<br/><img src='/images/lathe.jpg' width='300'>
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

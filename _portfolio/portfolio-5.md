@@ -1,15 +1,17 @@
 ---
-title: "Industrial Robot Arm - Pneumatic Gripping"
-excerpt: "<br/><img src='/images/shaqbot.jpg' width='500'>"
+title: "Bipedal Robot Object Avoidance in Simulation"
+excerpt: "<br/><img src='/images/humanoidRobot.jpg' width='500'>"
 collection: portfolio
 ---
 
-This project is part of my Master's research and is advised by Dr. Ann Majewicz Fey and Dr. Roman Mykhailyshyn. It builds upon Dr. Mykhailyshyn's existing [research](https://romanmykhailyshyn.github.io/portfolio/portfolio-1/).
+This project was part of the Human Centered Robotics course at UT Austin. 
 
-Gripping and manipulating cloth and textiles by robotic systems in manufacturing has been a problem. The aim of this research is to develop and optimize gripping devices and their manipulation methods.
+Myself and one other graduate student developed a simulation for a bipedal robot to walk down a hallway and avoid both objects in the hallway and running into the walls of the hallway. Our project was inspired by this [research](https://ut-austin-rpl.github.io/PRELUDE/).
 
-The setup for this testing is a pneumatic gripping device connected to the end effector of a Yaskawa dual arm robot. The air delivered to the gripping device is controlled by a relay and Arduino micro. The robot and arduino are controlled through ROS. Attached to the gripping device is a force sensor. This research is expected to be completed early 2024 and published through a conference paper.
+Much of our code for the actual walking of the robot was developed through class homeworks and we edited it as needed. We also took a lot of code from the [research](https://ut-austin-rpl.github.io/PRELUDE/).
 
+This simulation was developed using [PyBullet](https://pybullet.org/wordpress/).
 
+Here is a link to our [repository](https://github.com/gippertexas/Stein_Alkis_HCR/tree/updated_navigation?tab=readme-ov-file).
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XBvdOm2OkDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
