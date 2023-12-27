@@ -23,4 +23,4 @@ Here is a short video of our simulation:
 
 
 Here is an overview of the procedure:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKO-mz_Aqw4&t=314s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKO-mz_Aqw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
