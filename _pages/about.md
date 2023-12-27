@@ -14,7 +14,7 @@ I completed my undergraduate degree in Mechanical Engineering at The University 
 
 Experience
 ------
-After my undergraduate graduation in December 2020 I worked at [Infinity MEP+S Consultants](https://infinitymep.com/) and [O'Connell Robertson](https://oconnellrobertson.com/) as a Mechanical Engineer. Completing projects with teams of engineers and architects for commercial, medical, and education facilities. I was directly responsible for collaborating with the end user, specifying equipment, writing the control logic, and designing HVAC and Piping systems. 
+After my undergraduate graduation in December 2020 I worked at [Infinity MEP+S Consultants](https://infinitymep.com/) and [O'Connell Robertson](https://oconnellrobertson.com/) as a Mechanical Engineer. I completed projects with teams of engineers and architects for commercial, medical, and education facilities. I was directly responsible for collaborating with the end user, specifying equipment, writing the control logic, and designing HVAC and Piping systems. 
 
 I have three internship experiences, two with [Dover Fueling Solutions](https://www.doverfuelingsolutions.com/) and one with [Southwest Research Institute (SwRI)](https://www.swri.org/). At Dover I helped design mechanical hardware to either provide for a customer, or improve upon existing mechanical designs to improve cost efficiency. At SwRI I worked in the automotive controls group where my primary roles were data analysis and developing control software to improve efficiency in automotive vehicles. Our group was involved in combustion, electric and hydrogen based vehicles.
 
