@@ -1,6 +1,6 @@
 ---
 title: "Enhancing Propioception in Fetal Surgery - Introducing Visual and Haptic Feedback"
-excerpt: "<br/><img src='/images/sceneViewPlacenta.png'>"
+excerpt: "<br/><img src='/images/sceneViewPlacenta.png' width='500'>"
 collection: portfolio
 ---
 
@@ -16,7 +16,7 @@ turned on or off. This is to help the surgeon remember where to perform the proc
 Haptic fixtures are currently so that the user is pulled to the closest procedure location (blue dots) which are marked using the 
 Geomagic Touch haptic device. This can also be turned on or off.
 
-"<br/><img src='/images/visualFixturesPlacenta.png'>"
+<br/><img src='/images/visualFixturesPlacenta.png' width='500'>
 
 Here is a short video of our simulation:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1K56gngbK3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
