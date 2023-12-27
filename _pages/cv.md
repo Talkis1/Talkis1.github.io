@@ -42,7 +42,7 @@ Skills
 * C/C++
 * ROS
 * SolidWorks
-* SRevit
+* Revit
 * LabView
 
 Courses
@@ -58,6 +58,9 @@ Courses
 * Fall 2023
   * Automatic Control Systems Design
   * Haptic and Teleoperated Systems
+* Spring 2024
+  * Modern Controls
+  * Fundamentals of Machine Learning and Data Science
 
 <!-- Publications
 ======
