@@ -9,5 +9,3 @@ On Longhorn Racing I was a part of the aerodynamics team in 2019-2020 where I wa
 
 I was a part of the manufacturing team from 2022-2023 where I manufactured parts for the car. Often I would ask the different design teams what they needed manufactured and they would send me part drawings or SolidWorks models and then I would manufacture them. I would commonly use the lathe, mill, and the CNC milling machine. During the Fall when we had free time we typically spent it welding.
 <br/><img src='/images/lathe.jpg' width='300'>
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

@@ -8,4 +8,3 @@ This was a project during my senior year of my undergraduate degree at UT Austin
 
 <br/><img src='/images/smallRod.jpg' width='300'><br/><img src='/images/largeRod.jpg' width='300'>
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
