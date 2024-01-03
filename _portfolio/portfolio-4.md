@@ -20,6 +20,6 @@ This project was part of a class competition. Our team won this competition maki
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jpspNvdSzpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<br/>
 Here is an image of our flywheel design:
 <br/><img src='/images/stephbot.jpg' width='300'>
