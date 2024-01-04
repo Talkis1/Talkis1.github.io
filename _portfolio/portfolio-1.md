@@ -4,7 +4,7 @@ excerpt: "<br/><img src='/images/yaskawa.jpg' width='500'>"
 collection: portfolio
 ---
 
-This project is part of my Master's research and is advised by Dr. Ann Majewicz Fey and Dr. Roman Mykhailyshyn. It builds upon Dr. Mykhailyshyn's existing [research](https://romanmykhailyshyn.github.io/portfolio/portfolio-1/).
+This project is part of my Master's research and is advised by Dr. Ann Majewicz Fey and Dr. Roman Mykhailyshyn. It builds upon Dr. Mykhailyshyn's existing [research](https://ieeexplore.ieee.org/abstract/document/10359134).
 
 Gripping and manipulating cloth and textiles by robotic systems in manufacturing has been a problem. The aim of this research is to develop and optimize gripping devices and their manipulation methods.
 
