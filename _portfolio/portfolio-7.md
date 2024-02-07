@@ -1,14 +1,21 @@
 ---
-title: "Senior Design Project - Portable Ice Maker"
-excerpt: "<br/><img src='/images/iceMakerFront.jpg' width='500'>"
+title: "Composite Airplane Wing"
+excerpt: "<br/><img src='/images/tsaiWu.jpg' width='500'>"
 collection: portfolio
 ---
 
-Designed for a specific consumer within the UT Mechanical Engineering department.
+This was an end of semester project for a course called Composites Design. This project was done with another student at UT Austin.
 
-The key design aspects of this project was a minimal footprint (ability to sit on top of a desk) and the ability to pour a cup of water into the ice maker and receive ice in under 15 minutes. We created a MATLAB model to verify if producing ice in under 15 minutes was feasible. Our designs for the ice making mechanisms were inspired by our research through current patented products.
+For this project, our task was to design a composite sandwich structure for use in an electric
+vertical take-off and landing aircraft. Specifically, we designed a portion of the wing, with
+dimensions 0.15m wide and 1m long. It was given that this structure was subject to a Fx = 50
+kN, Fy = 50 kN, and Nxy = 50 kN*m. The design safety factor was 1.5. 
 
-Three different styles of ice would be expected to be made from this; the Sonic style, crushed, and cubed.
+Here is the repository for the python code that was developed for this project:
+[Project](https://github.com/Talkis1/Composites_analysis).
 
-<br/><img src='/images/iceMakerFront.jpg' width='500'>
+Here is a copy of our report:
+[Report](/files/composites_report.pdf)
+
+
 
