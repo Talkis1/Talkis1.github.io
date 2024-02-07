@@ -14,4 +14,5 @@ I built this quadcopter from scratch designing the frame in solidworks and 3D pr
 
 The code I used for the Arduino was taken from [https://github.com/lobodol/drone-flight-controller](https://github.com/lobodol/drone-flight-controller) and edited as needed. There were two separate scripts I used, one for calibrating the ESC and the other was the flight controller. The major tasks of the flight controller was filtering the IMU data and creating roll, pitch, and yaw commands from the radio transmitter. I used a PID controller for roll, pitch and yaw to accomplish this. I used this [publication](https://ieeexplore.ieee.org/document/7813499) to help my understanding with the controller and the physical modeling.
 
-
+Here is a video of testing the quadcopter:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IQm0eE9rv6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
